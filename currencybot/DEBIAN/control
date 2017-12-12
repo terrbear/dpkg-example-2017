@@ -1,0 +1,7 @@
+Package: currencybot
+Version: $VERSION
+Architecture: amd64
+Maintainer: terry heath <theath@gmail.com>
+Depends: curl
+Homepage: http://terrbear.org
+Description: Documents the BTC excitement of 2017
