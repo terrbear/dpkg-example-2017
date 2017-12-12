@@ -1,7 +1,6 @@
 #!/bin/bash
 
-if [ -z "$VERSION" ]
-  then
+if [ -z "$VERSION" ]; then
     echo "No version supplied"
     exit 1
 fi
